@@ -12,8 +12,8 @@ android {
         applicationId = "com.vx7.marketing"
         minSdk = 26
         targetSdk = 35
-        versionCode = 2
-        versionName = "Khata"
+        versionCode = 1
+        versionName = "1.0.0"
     }
     buildFeatures { compose = true }
     compileOptions {
